@@ -1,8 +1,10 @@
 # Walking Buddy App
 A Swift/SwiftUI application that randomly chooses a place nearby to take a walk/cycle/whatever actually to. You can specify range and presets including names, colors (only iOS 14 for now) and distance. Also wherever you see me typing iOS I also mean iPadOS (thanks Apple lol).
 
-## Requirements
-As of now iOS 13 for the app alone, iOS 14 for the color pickers (they've been introduced in iOS 14 and I'm looking for alternatives to use with the iOS 13 version). Probably also iOS 14 for the eventual widgets.
+## Requirements and availability
+As of now iOS 13 for the app alone, iOS 14 for the color pickers (they've been introduced in iOS 14 and I'm looking for alternatives to use with the iOS 13 version). Probably also iOS 14 for the eventual widgets.  
+
+The app will probably be distributed as an .ipa file to sideload. Might look into puting it on the App Store though, as it would be the most user firendly way.
 
 ## Screenshots
 ### iOS

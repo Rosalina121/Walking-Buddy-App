@@ -7,7 +7,7 @@ As of now iOS 13 for the app alone, iOS 14 for the color pickers (they've been i
 ## Screenshots
 ### iOS
 
-Start Screen               |  Showing route            |  Preset selector          |  Settings modal
+Start Screen               |  Showing Route            |  Preset Selector          |  Settings Modal
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-14%20at%2013.44.52.png)  |  ![](screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-14%20at%2013.46.21.png)  |  ![](screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-14%20at%2013.47.04.png)  |  ![](screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-14%20at%2013.47.12.png)
 
@@ -15,13 +15,13 @@ Start Screen               |  Showing route            |  Preset selector       
 
 ### iPad
 
-Start Screen               |  Showing route + settings            
-:-------------------------:|:-------------------------:
-![](screenshots/Simulator%20Screen%20Shot%20-%20iPad%20(7th%20generation)%20-%202020-07-14%20at%2013.47.39.png)  |  ![](screenshots/Simulator%20Screen%20Shot%20-%20iPad%20(7th%20generation)%20-%202020-07-14%20at%2013.47.53.png)
+Start Screen               |  Showing Route + Settings |  Color Picker             
+:-------------------------:|:-------------------------:|:-------------------------:
+![](screenshots/Simulator%20Screen%20Shot%20-%20iPad%20(7th%20generation)%20-%202020-07-14%20at%2013.47.39.png)  |  ![](screenshots/Simulator%20Screen%20Shot%20-%20iPad%20(7th%20generation)%20-%202020-07-14%20at%2013.47.53.png)  | ![](screenshots/Simulator%20Screen%20Shot%20-%20iPad%20(7th%20generation)%20-%202020-07-14%20at%2013.48.14.png) 
 
 ### Mac
 
-Start Screen               |  Showing route + settings            
+Start Screen               |  Showing Route + Settings            
 :-------------------------:|:-------------------------:
 ![](screenshots/Screenshot%202020-07-14%20at%2013.49.05.png)  |  ![](screenshots/Screenshot%202020-07-14%20at%2013.49.50.png)
 

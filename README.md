@@ -26,7 +26,7 @@ Start Screen               |  Showing Route + Settings
 ![](screenshots/Screenshot%202020-07-14%20at%2013.49.05.png)  |  ![](screenshots/Screenshot%202020-07-14%20at%2013.49.50.png)
 
 ## How it works?
-A radnom point in the approximate range is calculated. Then a route is plotted on the map. Simple as that. App also supports 2 interfaces, which are similar, but both tailerd to their smaller or bigger screen estate. That's why preset selector is always visible on Mac and iPad, but not iPhone. Also only iPhone versions use modal for settings as the smaller settings pane looked tiny and packed on smaller screens, and bigger modal settings on iPad and Mac obscured whole view and didn't make sense.
+A radnom point in the approximate range is calculated and then a route is plotted on the map. Simple as that. App also supports 2 interfaces, which are similar, but both tailored to a smaller or bigger screen estate. That's why the preset selector is always visible on Mac and iPad, but not iPhone. Also only iPhone versions use modal for settings as the smaller settings pane looked tiny and packed on smaller screens, and bigger modal settings on iPad and Mac obscured whole view and just didn't make sense.
 
 ## Known issues
 - Buttons using SF Symbols, so the selector and settings button, seem to behave differently on iOS 14 than their earlier version counterparts. On iOS 13.2 they have the exact same size, however on these screenshots you can see they're different. Might be an issue with the beta, or Apple just changed this behavior.

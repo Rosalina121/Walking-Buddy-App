@@ -1,3 +1,6 @@
+# Remember kids, do backups
+This repo has no code because I was stupid enough to do all the work on my machine and *then* upload it later. So I updated my macOS and forgot about the code. This repo is basically a presentation of what the app was able to do until I removed it from the face of Earth forever. At least now I have a reason to make it again, but with a much cleaner code.
+
 # Walking Buddy App
 A Swift/SwiftUI application that randomly chooses a place nearby to take a walk/cycle/whatever actually to. You can specify range and presets including names, colors (only iOS 14 for now) and distance. Also wherever you see me typing iOS I also mean iPadOS (thanks Apple lol).
 
